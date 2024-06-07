@@ -20,4 +20,4 @@ My name is Aryan Chand.
 - 🗒️ I'm working on Android and Web Development.
 - 🌱 I'm learning Embedded Development and Hardware Accelerated Machine Learning for Robotics.
 - 🔭 I'm looking for help with learning PCB design and AI based Computer Vision.
-- 📬 [My email](mailto:aryanchand753@gmail.com) is always open. 
+- 📬 My email (<aryanchand753@gmail.com>) is always open.
