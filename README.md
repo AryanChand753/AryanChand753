@@ -23,4 +23,4 @@ My name is Aryan Chand.
 - 📬 My email (<aryanchand753@gmail.com>) is always open.
 
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchand753&show=prs_merged,prs_merged_percentage)
+<!-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchand753&show=prs_merged,prs_merged_percentage) -->
