@@ -21,3 +21,6 @@ My name is Aryan Chand.
 - 🌱 I'm learning Embedded Development and Hardware Accelerated Machine Learning for Robotics.
 - 🔭 I'm looking for help with learning PCB design and AI based Computer Vision.
 - 📬 My email (<aryanchand753@gmail.com>) is always open.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchand753&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
