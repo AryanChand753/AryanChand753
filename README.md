@@ -22,5 +22,5 @@ My name is Aryan Chand.
 - 🔭 I'm looking for help with learning PCB design and AI based Computer Vision.
 - 📬 My email (<aryanchand753@gmail.com>) is always open.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChand753&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/SeniorMars/github-readme-stats)
 <!-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchand753&show=prs_merged,prs_merged_percentage) -->
