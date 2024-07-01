@@ -1,26 +1,22 @@
-## Hi there 👋
+<h1 align="center">Aryan Chand</h1>
 
-<!--
-**AryanChand753/AryanChand753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is Aryan Chand.
 - 🤓 I'm a Computer Engineering student with a focus on Aerospace Applications.
 - 🗒️ I'm working on Android and Web Development.
 - 🌱 I'm learning Embedded Development and Hardware Accelerated Machine Learning for Robotics.
 - 🔭 I'm looking for help with learning PCB design and AI based Computer Vision.
 - 📬 My email (<aryanchand753@gmail.com>) is always open.
 
+## My Socials:
+<div align="left">
+  <ul style="list-style:none;">
+    <li>
+      <a href="https://linkedin.com/in/AryanChand753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AryanChand753" height="30" width="40" /></a>
+    </li>
+    <li>
+      <a href="http://aryanchand753.github.io" target="_blank">Personal Website</a>
+    </li>
+  </ul>
+</div>
+
+## My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChand753&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/SeniorMars/github-readme-stats)
-<!-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchand753&show=prs_merged,prs_merged_percentage) -->
