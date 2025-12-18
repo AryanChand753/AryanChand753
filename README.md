@@ -1,7 +1,8 @@
 <h1 align="center">Aryan Chand</h1>
 
 I am an Embedded Systems Computer Engineering student with a focus on Aerospace Applications.
-My email (<aryanchand753@gmail.com>) is always open.
+
+My email <aryanchand753@gmail.com> is always open.
 
 ## My Socials:
 <div align="left">
@@ -14,6 +15,3 @@ My email (<aryanchand753@gmail.com>) is always open.
     </li>
   </ul>
 </div>
-
-## My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChand753&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/SeniorMars/github-readme-stats)
