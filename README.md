@@ -6,7 +6,7 @@
     justify-content: space-between;
     align-items: center;
   ">
-  <a href="https://www.aryanchand753.github.io/" style="margin: auto;">Personal Website</a>
+  <a href="https://aryanchand753.github.io/" style="margin: auto;">Personal Website</a>
   <a href="https://www.instagram.com/aryanchand753/" style="margin: auto;"><img src="img/Instagram_icon.png" height="50" /></a>
   <a href="https://www.linkedin.com/in/aryanchand753/" style="margin: auto;"><img src="img/Linkedin_icon.png" height="50" /></a>
 </div>
